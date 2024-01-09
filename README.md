@@ -1,3 +1,4 @@
 # Snake
 El proyecto desarrollado se basa en el videojuego "Snake" que fue lanzado a mediados de los 70´ y que tuvo un reconocimiento y popularidad bastante significante ya que venía pre-instalado en los teléfonos nokia en el año 1998. Se ha logrado replicar el funcionamiento de la idea original del juego, que es el de una serpiente que va creciendo en tamaño según vaya comiendo las "manzanas" que estén dentro del área de juego. Se han considerado las colisiones con los límites del canvas y también la de la cabeza con las otras partes del cuerpo de la serpiente. Se ha agregado algunas funcionalidades, como por ejemplo que el jugador puede resetear el juego en caso pierda y también que pueda visualizar el puntaje máximo que está obtenido para así tener a la vista su score personal. 
+
 Este proyecto fue desarrollado con fines netamente de estudio y sin fines de lucro.
