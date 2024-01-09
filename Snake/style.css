@@ -1,0 +1,51 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: rgb(0, 0, 0);
+    text-align: center;
+    color: white;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.canvas{
+    border: 2px white solid;
+    background-color: black;
+}
+
+.points{
+    padding-top: 2rem;
+}
+
+.max-points{
+    padding-bottom: 1rem;
+}
+
+.loser{
+    padding-top: 2rem;
+    color: red;
+}
+
+.final-score{
+    padding-bottom: 1rem;
+}
+
+.re-start{
+    background-color: rgb(21, 81, 20);
+    border: 0;
+    border-radius: 10px;
+    color: lightgreen;
+    
+    padding: 1rem;
+}
+
+.re-start:hover{
+    background-color:rgb(124, 216, 122);
+    color: darkgreen;
+    transition: 0.4s;
+}
